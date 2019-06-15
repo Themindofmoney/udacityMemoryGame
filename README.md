@@ -6,7 +6,7 @@
 <p>Download or clone the repositoryon your machine.</p>
 <p>Extract the .zip file</p>
 <p>Open index.html in your browser.</p>
-<p>OR Click on this LINK to see the live version of the game .</p>
+<p>OR Click on this LINK(coming soon) to see the live version of the game .</p>
 
 <h2>Rules: </h2>
 <p>The player will pick two cards at a time.</p>
